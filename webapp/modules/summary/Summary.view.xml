@@ -1,7 +1,7 @@
 <mvc:View displayBlock="true" controllerName="covid.visual.modules.master.Master" height="100%" xmlns="sap.m" xmlns:f="sap.f"
 	xmlns:viz="sap.viz.ui5.controls" xmlns:viz.feeds="sap.viz.ui5.controls.common.feeds" xmlns:viz.data="sap.viz.ui5.data"
 	xmlns:custom="covid.visual.customControllers" xmlns:mvc="sap.ui.core.mvc">
-	<Page title="Details">
+	<Page title="Worldwide Details">
 		<content>
 			<GenericTile class="sapUiTinyMarginBegin sapUiTinyMarginTop tileLayout" header="New Confirmed" press="onPress">
 				<TileContent class="margintop" unit="People">
